@@ -34,8 +34,10 @@ int main()
 	Group = (PGroup)GetProcAddress(hDll, "_group");
 
 	//	Использование функций
+	cout << "Nice to meet you! My name is ";
 	(*Name)();
 	cout << "My age is " << old() << endl;
+	cout << "I`m study in group ";
 	(*Group)();
 
 	//	Выгружаем библиотеку
