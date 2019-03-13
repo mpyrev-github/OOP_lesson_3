@@ -1,8 +1,8 @@
 # OOP_lesson_3
 OOP lesson 3
-# Language / Язык
+# Language / РЇР·С‹Рє
 * [English version](https://github.com/vastXgithub/OOP_lesson_3/blob/master/README.md#oop)
-* [Русская версия](https://github.com/vastXgithub/OOP_lesson_3/blob/master/README.md#%D0%BE%D0%BE%D0%BF)
+* [Р СѓСЃСЃРєР°СЏ РІРµСЂСЃРёСЏ](https://github.com/vastXgithub/OOP_lesson_3/blob/master/README.md#%D0%BE%D0%BE%D0%BF)
 # OOP
 ## Lesson 3
 This is third project for course of OOP from Dmitrii KHorkov.<br />
@@ -36,12 +36,12 @@ If you want download project as a .zip-file, please [click here](https://github.
 
 <br />
 
-# ООП
-## Урок 3
-Это третий проект по курсу ООП от Дмитрия Хорькова. <br />
-### Описание
-В данном уроке мы изучаем основы Git. В качестве результата работы в данном репозитории представлены четыре commit\`а, которые образуют две ветки разработки, которые в свою очередь сливаются в основную. Данный результат визуально представлен по [данной ссылке](https://github.com/vastXgithub/OOP_lesson_3/network).
-## Загрузить проект
-Если вы хотите загрузить проект как .zip-файл, пожалуйста [нажмите сюда](https://github.com/vastXgithub/OOP_lesson_3/archive/master.zip).
-## Авторы
-* **Михаил Пырьев** - *Основная работа* - [vastXgithub](https://github.com/vastXgithub)
+# РћРћРџ
+## РЈСЂРѕРє 3
+Р­С‚Рѕ С‚СЂРµС‚РёР№ РїСЂРѕРµРєС‚ РїРѕ РєСѓСЂСЃСѓ РћРћРџ РѕС‚ Р”РјРёС‚СЂРёСЏ РҐРѕСЂСЊРєРѕРІР°. <br />
+### РћРїРёСЃР°РЅРёРµ
+Р’ РґР°РЅРЅРѕРј СѓСЂРѕРєРµ РјС‹ РёР·СѓС‡Р°РµРј РѕСЃРЅРѕРІС‹ Git. Р’ РєР°С‡РµСЃС‚РІРµ СЂРµР·СѓР»СЊС‚Р°С‚Р° СЂР°Р±РѕС‚С‹ РІ РґР°РЅРЅРѕРј СЂРµРїРѕР·РёС‚РѕСЂРёРё РїСЂРµРґСЃС‚Р°РІР»РµРЅС‹ С‡РµС‚С‹СЂРµ commit\`Р°, РєРѕС‚РѕСЂС‹Рµ РѕР±СЂР°Р·СѓСЋС‚ РґРІРµ РІРµС‚РєРё СЂР°Р·СЂР°Р±РѕС‚РєРё, РєРѕС‚РѕСЂС‹Рµ РІ СЃРІРѕСЋ РѕС‡РµСЂРµРґСЊ СЃР»РёРІР°СЋС‚СЃСЏ РІ РѕСЃРЅРѕРІРЅСѓСЋ. Р”Р°РЅРЅС‹Р№ СЂРµР·СѓР»СЊС‚Р°С‚ РІРёР·СѓР°Р»СЊРЅРѕ РїСЂРµРґСЃС‚Р°РІР»РµРЅ РїРѕ [РґР°РЅРЅРѕР№ СЃСЃС‹Р»РєРµ](https://github.com/vastXgithub/OOP_lesson_3/network).
+## Р—Р°РіСЂСѓР·РёС‚СЊ РїСЂРѕРµРєС‚
+Р•СЃР»Рё РІС‹ С…РѕС‚РёС‚Рµ Р·Р°РіСЂСѓР·РёС‚СЊ РїСЂРѕРµРєС‚ РєР°Рє .zip-С„Р°Р№Р», РїРѕР¶Р°Р»СѓР№СЃС‚Р° [РЅР°Р¶РјРёС‚Рµ СЃСЋРґР°](https://github.com/vastXgithub/OOP_lesson_3/archive/master.zip).
+## РђРІС‚РѕСЂС‹
+* **РњРёС…Р°РёР» РџС‹СЂСЊРµРІ** - *РћСЃРЅРѕРІРЅР°СЏ СЂР°Р±РѕС‚Р°* - [vastXgithub](https://github.com/vastXgithub)
